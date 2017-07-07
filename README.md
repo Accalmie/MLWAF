@@ -1,6 +1,7 @@
 # Classifier driven WAF
 
 This repo is inspired from this work : http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/
+Some techniques are also inspired from : http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb
 
 The script currently uses the following features :
 
